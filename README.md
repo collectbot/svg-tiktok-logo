@@ -6,4 +6,4 @@ demonstrate the svg glitch fx via filters
 ![tiktok glitch fx preview](tiktok.gif)
 
 
-<small>filter code abstracted from [chokcoco/SVG](https://github.com/chokcoco/svg)</small>
+<sub>filter code abstracted from [chokcoco/SVG](https://github.com/chokcoco/svg)</sub>
